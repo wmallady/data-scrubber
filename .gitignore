@@ -1,3 +1,6 @@
 docs/
 unestablished-patients/
 update_f_sent.py
+*.csv
+*.xlsx
+*.log
